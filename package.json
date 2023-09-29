@@ -1,0 +1,22 @@
+{
+  "name": "boss-server",
+  "version": "1.0.0",
+  "description": "backend server for boss project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erezdan/boss.git"
+  },
+  "author": "erez dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erezdan/boss/issues"
+  },
+  "homepage": "https://github.com/erezdan/boss#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
